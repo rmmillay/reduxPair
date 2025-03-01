@@ -1,7 +1,7 @@
 import ProduceDetails from './ProduceDetails';
 import './ProduceList.css';
 
-function ProduceList() {
+function ProduceList() { 
   const produce = {};
 
   const produceArr = Object.values(produce);

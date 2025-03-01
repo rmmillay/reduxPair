@@ -1,5 +1,5 @@
 function ProduceDetails({ produce }) {
-  const cartItem = {};
+  const cartItem = {}; 
 
   return (
     <li className="produce-details">

@@ -2,7 +2,7 @@ import CartItem from './CartItem';
 import './Cart.css';
 
 function Cart() {
-  const cart = {};             
+  const cart = {};              
   const produce = {};
 
   const cartItems = Object.values(cart)
